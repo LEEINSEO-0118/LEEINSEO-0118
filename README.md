@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm LEE INSEO, aka TOAD</h1>
-<h3 align="center">Student, Learning Data Science</h3>
+<h1 align="left">Hi 👋, I'm LEE INSEO, aka TOAD</h1>
+<h3 align="left">Student, Learning Data Science</h3>
 
 
  - 🌱 I’m currently learning "Data Sciencet"
